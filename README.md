@@ -2,7 +2,6 @@
 # Module 20 Challenge
 
 ## **Table of Contents**
-
 - [credit-risk-classification](#credit-risk-classification)
 - [Module 20 Challenge](#module-20-challenge)
   - [**Table of Contents**](#table-of-contents)
@@ -38,7 +37,6 @@ If you do not recommend any of the models, please justify your reasoning. SAMPLE
 
 
 ## **Technologies / Dependencies Needed and Used**
-
 - **Numpy**: NumPy enables efficient numerical computations, data transformations, and integration with machine learning models, supporting fast array operations and statistical functions.
 - **Pandas**: Used for handling and analyzing large datasets, particularly in tabular form (e.g., DataFrames).
 - **hvplot.pandas**: Used for interactive plotting in Python, specifically designed to work seamlessly with Pandas DataFrames. It allows you to create interactive plots directly from your data, enhancing visualization capabilities.
@@ -49,7 +47,6 @@ If you do not recommend any of the models, please justify your reasoning. SAMPLE
 - 1. Install Technologies / Dependencies Needed and Used. See - [**Sources**](#sources) for additional information.
 - 2. Open and run the jupyter notebook top to bottom.
 ## **Visualizations**
-
 [Confusion Matrix and Classification Report](Images/Confusion_matrix_and_classification.png)
 
 

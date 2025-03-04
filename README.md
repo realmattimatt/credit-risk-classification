@@ -18,10 +18,19 @@
   - [**Contact**](#contact)
 
 ## **Project Overview**
-SAMPLE
+This project focuses on building a machine learning model to assess the creditworthiness of borrowers using historical lending data. By leveraging logistic regression, we aim to classify loans as either low-risk (0) or high-risk (1) based on various borrower characteristics.
+
+The analysis involves:
+* Preprocessing: Splitting data into training and testing sets.
+* Model Training: Implementing a logistic regression classifier.
+* Evaluation: Assessing model performance using accuracy, precision, recall, and confusion matrix.
+* Recommendation: Determining whether the model is suitable for real-world use.
 
 ## **Results**
-Using bulleted lists, describe the accuracy scores and the precision and recall scores of all machine learning models.
+Accuracy: XX%
+Precision: XX%
+Recall: XX%
+Confusion Matrix: [Insert results]
 
 * Machine Learning Model 1: SAMPLE
     * Description of Model 1 Accuracy, Precision, and Recall scores. SAMPLE

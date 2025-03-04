@@ -66,8 +66,9 @@ The logistic regression model performed well with an **overall accuracy of 99.37
 
 
 ## **How to Run the Application**
-- 1. Install Technologies / Dependencies Needed and Used. See - [**Sources**](#sources) for additional information.
-- 2. Open and run the jupyter notebook top to bottom.
+1. **Install Dependencies**: See [**Sources**](#sources) for additional information.
+2. **Run the Jupyter Notebook**: Open and run all cells from **top to bottom** in the following notebook:  
+   - [**Credit Risk Classification Notebook**](Credit_Risk/credit_risk_classification.ipynb)
 
 
 ## **Visualizations**
